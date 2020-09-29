@@ -1,3 +1,6 @@
+# Tic Tac Toe Game
+Mini project part of the official React documentation: [Tutorial](https://reactjs.org/tutorial/tutorial)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
